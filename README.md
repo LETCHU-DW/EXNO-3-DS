@@ -227,10 +227,10 @@ plt.show()
 
 <img width="823" height="540" alt="image" src="https://github.com/user-attachments/assets/9e38dd07-0c2a-4b76-8c14-50bd1611905c" />
 
-
+```
 sm.qqplot(dt['Age_1'],line='45')
 plt.show()
-
+```
 <img width="837" height="537" alt="image" src="https://github.com/user-attachments/assets/f8e3ffa6-464b-4dbe-ad5c-eeb9c65880ae" />
 
      
